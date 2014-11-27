@@ -1,0 +1,60 @@
+{
+    "version": 1.1,
+    "categories": [
+    {"id":1, "name":"actor"},
+    {"id":2, "name":"writer"},
+    {"id":3, "name":"scientist"},
+    {"id":4, "name":"philosopher"},
+    {"id":5, "name":"journalist"},
+    {"id":6, "name":"politician"},
+    {"id":7, "name":"musician"},
+    {"id":8, "name":"artist"},
+    {"id":9, "name":"sportsman"},
+    {"id":10, "name":"poet"},
+    {"id":11, "name":"director"}
+    ],
+    "Persons": [
+    {
+        "categoryId":7,
+        "categoryName": "musician",
+        "level": 1,
+        "name": "Lady Gaga",
+        "image": "http://demo.afflications.com/people/kgulturk/gaga.png"
+    },
+    {
+        "categoryId":7,
+        "categoryName": "musician",
+        "level": 1,
+        "name": "Jennifer Lopez",
+        "image": "http://demo.afflications.com/people/kgulturk/lopez.png"
+    },
+    {
+        "categoryId":7,
+        "categoryName": "musician",
+        "level": 1,
+        "name": "Rihanna",
+        "image": "http://demo.afflications.com/people/kgulturk/rihanna.png"
+    },
+    {
+        "categoryId":7,
+        "categoryName": "musician",
+        "level": 1,
+        "name": "Katy Perry",
+        "image": "http://demo.afflications.com/people/kgulturk/katy.png"
+    },
+    {
+        "categoryId":7,
+        "categoryName": "musician",
+        "level": 1,
+        "name": "Tuna",
+        "image": "http://demo.afflications.com/people/kgulturk/tuna.png"
+    },
+    {
+        "categoryId":2,
+        "categoryName": "Artist",
+        "level": 2,
+        "name": "Tuna",
+        "image": "http://demo.afflications.com/people/kgulturk/tuna.png"
+    }
+    ]
+}
